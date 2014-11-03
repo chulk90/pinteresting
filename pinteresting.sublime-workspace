@@ -31,7 +31,7 @@
 			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 455,
+				"buffer_size": 456,
 				"line_ending": "Unix"
 			}
 		}
@@ -67,6 +67,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Chul/Documents/GitHub/pinteresting/README.md",
 		"/C/Users/Chul/Documents/GitHub/HealthHack/HealthHackDC.sublime-project",
 		"/C/Users/Chul/Documents/GitHub/HealthHack/app.js",
 		"/C/Users/Chul/Documents/GitHub/HealthHack/README.md",
@@ -176,15 +177,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 455,
+						"buffer_size": 456,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								364,
-								364
+								456,
+								456
 							]
 						],
 						"settings":
@@ -207,7 +208,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"layout":
 	{
