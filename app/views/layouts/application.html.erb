@@ -6,6 +6,29 @@
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <style>
+  	.portrait {
+  		width: 25vw;
+  		/* 90% of viewport vidth */
+		  height: 37.5vw;
+		  /* ratio = 9/16 * 90 = 50.625 */
+		  /*background: pink;*/
+		  min-height: 100px;
+		  min-width: 133px;
+		  /* 16/9 * 90 = 160 */
+		  margin: auto;
+		  /*position: absolute;*/
+		  top: 0;
+		  bottom: 0;
+		  left: 0;
+		  right: 0;
+  	}
+  	.portrait_text {
+  		width: 50vw;
+  		.center-block();
+  	}
+  </style>
 </head>
 <body>
 
